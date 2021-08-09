@@ -6,8 +6,11 @@ by replacing the <div> tags for the ones that were more related to its determine
 - **article**
 - **aside**
 - **footer**
+  
+  <img src="assets/images/README%20PICS/New%20Tags.png" height="650px">
 
-![](assets/images/README PICS/New Tags.png)
+Click the link to see the result of the  website:
+https://jisrael-r.github.io/Horiseon/
 
 besides adding semantic meaning, I also added the nessesary comments to 
 outline each section of the code thus giving it a better readability for future coder
@@ -24,8 +27,8 @@ these sections now have a class of "nav-article" since each section will have th
 design, I have grouped them under "nav-article" to target each section thus removing
 the repeated code in the file.
 
-![](assets/images/README PICS/Styles.png)
+<img src="assets/images/README%20PICS/Style2.png" height="760px">
 
 
-Check the link below to see the website:
+Click the link to see the result of the  website:
 https://jisrael-r.github.io/Horiseon/
