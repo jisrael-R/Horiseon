@@ -1,11 +1,14 @@
 # Code Refactor Starter Code
 In this project I had the opportunity to add  semantic meaning to each section in the index.html
-by replacing the <div> tags for the ones that made more  semantic sense. Such as:
-<header>
-<section>
-<article>
-<aside>
-<footer>
+by replacing the <div> tags for the ones that were more related to its determined section. Tags Such as:
+- **header**
+- **section**
+- **article**
+- **aside**
+- **footer**
+
+![](assets/images/README PICS/New Tags.png)
+
 besides adding semantic meaning, I also added the nessesary comments to 
 outline each section of the code thus giving it a better readability for future coder
 to see.
@@ -21,3 +24,8 @@ these sections now have a class of "nav-article" since each section will have th
 design, I have grouped them under "nav-article" to target each section thus removing
 the repeated code in the file.
 
+![](assets/images/README PICS/Styles.png)
+
+
+Check the link below to see the website:
+https://jisrael-r.github.io/Horiseon/
